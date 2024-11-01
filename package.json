@@ -1,0 +1,18 @@
+{
+  "name": "feelit-warehouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0",
+    "morgan": "^1.10.0"
+  }
+}
